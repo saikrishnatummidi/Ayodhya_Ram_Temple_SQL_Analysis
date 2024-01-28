@@ -4,7 +4,7 @@
 
 The task is to craft SQL queries to extract insights from the Ayodhya Ram Temple database.
 
-Link to the dataset used in this challenge -->[Data set]([https://bit.ly/3SdzNPW](https://nitish2162001.github.io/Webpage-3/))
+Link to the dataset used in this challenge -->[Data set]([https://bit.ly/3SdzNPW])
 
 ## Tables
 
